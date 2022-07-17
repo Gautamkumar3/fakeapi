@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": "5",
+      "name": "mivi",
+      "price": "1500",
+      "img_url": "https://rukminim1.flixcart.com/image/312/312/kbqu4cw0/headphone/g/e/r/tedpm20-bl-mivi-original-imaftynzyvgw7237.jpeg?q=70"
+    },
+    {
+      "id": "3",
+      "name": "sofa",
+      "price": "15000",
+      "img_url": "https://rukminim1.flixcart.com/image/312/312/l4n2oi80/sofa-sectional/w/m/y/-original-imagfhzy22sg5uun.jpeg?q=70"
+    },
+    {
+      "id": "7",
+      "name": "sofa",
+      "price": "15000",
+      "img_url": "https://rukminim1.flixcart.com/image/312/312/l4n2oi80/sofa-sectional/w/m/y/-original-imagfhzy22sg5uun.jpeg?q=70"
+    },
+    {
+      "id": "4",
+      "name": "camera",
+      "price": "1500",
+      "img_url": "https://rukminim1.flixcart.com/image/612/612/kql8sy80/webcam/d/g/t/ch-0221-flipkart-smartbuy-original-imag4kjseh9ygguf.jpeg?q=70"
+    },
+    {
+      "id": "6",
+      "name": "camera",
+      "price": "1500",
+      "img_url": "https://rukminim1.flixcart.com/image/612/612/kql8sy80/webcam/d/g/t/ch-0221-flipkart-smartbuy-original-imag4kjseh9ygguf.jpeg?q=70"
+    },
+    {
+      "id": "8",
+      "name": "mouse",
+      "price": "150",
+      "img_url": "https://rukminim1.flixcart.com/image/612/612/kpcy5jk0/mouse/n/t/e/zeb-power-zebronics-original-imag3m6zuzqpwmkh.jpeg?q=70"
+    },
+    {
+      "id": "9",
+      "name": "sandisk",
+      "price": "230",
+      "img_url": "https://rukminim1.flixcart.com/image/612/612/ki3gknk0/memory-card/microsdxc/m/c/h/sandisk-sdsqua4-064g-gn6mn-original-imafxyzvahgcusue.jpeg?q=70"
+    },
+    {
+      "id": "10",
+      "name": "sandisk",
+      "price": "230",
+      "img_url": "https://rukminim1.flixcart.com/image/612/612/ki3gknk0/memory-card/microsdxc/m/c/h/sandisk-sdsqua4-064g-gn6mn-original-imafxyzvahgcusue.jpeg?q=70"
+    }
+  ]
+}
